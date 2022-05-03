@@ -1,4 +1,4 @@
-I am a Biomedical Engineering student at Azerbaijan State Oil and Industry University (class of 2022). I’m currently learning Machine Learning and Software Development. Main areas of interest are Systems Biology, Reconfigurable Organisms (Xenobots), and AI.  
+I am a Biomedical Engineering student at Azerbaijan State Oil and Industry University (class of 2022). I’m currently learning Machine Learning and Software Development. Main areas of interest are Translational Machine Learning, Systems Biology and responsible AI.  
   
 <p align=center>
   <img alt="Julia" src="https://img.shields.io/badge/-Julia-45b8d8?style=for-the-badge&logo=julia&logoColor=white" />
