@@ -7,5 +7,12 @@ I am a Biomedical Engineering student at Azerbaijan State Oil and Industry Unive
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+<div align="center">
+  
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11919175&layout=compact&theme=dark)](https://stackoverflow.com/users/11919175/jafar-isbarov)
+  
+</div>
+
 Email: cefer.isbarov@gmail.com  
 LinkedIn: https://www.linkedin.com/in/jafar-isbarov/
+
