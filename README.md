@@ -1,4 +1,4 @@
-MSc Computer Science student at George Washington University (class of 2022). Machine Learning Engineer at PRODATA (Baku, Azerbaijan). I occasionally contribute to Open Source project, or create something of my own.
+MSc Computer Science student at George Washington University (class of 2025). I occasionally contribute to open-source projects or create something of my own.
   
 <p align=center>
   <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=for-the-badge&logo=python&logoColor=white" />
