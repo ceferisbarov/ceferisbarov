@@ -1,5 +1,9 @@
 MSc Computer Science student at George Washington University (class of 2025). I occasionally contribute to open-source projects or create something of my own.
-  
+
+Personal website: [ceferisbarov.github.io](ceferisbarov.github.io)
+
+aLLMA Lab: [allmalab.github.io](allmalab.github.io)
+
 <p align=center>
   <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" />
